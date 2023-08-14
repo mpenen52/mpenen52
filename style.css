@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(202, 230, 161);
+}
+img{
+    border-style:solid; color: rgb(97, 2, 114);
+}
+h1 {
+    color:rgb(2, 49, 114);
+}
+h2 {
+    color:rgb(2, 49, 114);
+}
+h2#Experiencia{
+    color:rgb(97, 2, 114);
+}
+h2#educacion, #Contactar{
+    color:rgb(97, 2, 114);
+}
+p {
+    color:rgb(3, 60, 138);
+}
+p.intro {
+    text-align: justify;
+}
+p.perfil {
+    text-align:center;background-color: rgb(220, 241, 84) ; width: fit-content;
+}
+p.consultar {
+    text-align: center;
+}
+table {
+    color:rgb(2, 49, 114);
+}
+ul {
+    color:rgb(2, 49, 114);
+}
